@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,====== 热门频道 ======
-http://0/0.m3u8
-#EXTINF:-1 ,CCTV1综合
-http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 ,CCTV6电影
-http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 ,CCTV13新闻
-http://itv.ahau.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 ,湖南卫视
-http://itv.ahau.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 ,凤凰中文
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 ,====== 央视频道 ======
-http://1/1.m3u8
 #EXTINF:-1 ,CCTV1综合
 http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 ,CCTV2财经
@@ -21,9 +7,9 @@ http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
 http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 ,CCTV4中文国际
 http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 ,CCTV5体育(高清)
+#EXTINF:-1 ,CCTV5体育
 http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 ,CCTV5+体育赛事(高清)
+#EXTINF:-1 ,CCTV5+体育赛事
 http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 ,CCTV6电影
 http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
@@ -31,9 +17,9 @@ http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
 http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 ,CCTV8电视剧
 http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 ,CCTV9纪录(高清)
+#EXTINF:-1 ,CCTV9纪录
 http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 ,CCTV10科教(高清)
+#EXTINF:-1 ,CCTV10科教
 http://itv.ahau.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 ,CCTV11戏曲
 http://itv.ahau.edu.cn/hls/cctv11.m3u8
@@ -41,7 +27,7 @@ http://itv.ahau.edu.cn/hls/cctv11.m3u8
 http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 ,CCTV13新闻
 http://itv.ahau.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 ,CCTV14少儿(高清)
+#EXTINF:-1 ,CCTV14少儿
 http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 ,CCTV15音乐
 http://itv.ahau.edu.cn/hls/cctv15.m3u8
@@ -57,8 +43,6 @@ http://itv.ahau.edu.cn/hls/dyjctv.m3u8
 http://itv.ahau.edu.cn/hls/fyjctv.m3u8
 #EXTINF:-1 ,中国天气
 http://itv.ahau.edu.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 ,====== 地方卫视 ======
-http://2/2.m3u8
 #EXTINF:-1 ,湖南卫视
 http://itv.ahau.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 ,北京卫视
@@ -119,16 +103,12 @@ http://itv.ahau.edu.cn/hls/hljhd.m3u8
 http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
 #EXTINF:-1 ,澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
-#EXTINF:-1 ,====== 新闻资讯 ======
-http://3/3.m3u8
 #EXTINF:-1 ,凤凰中文
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 ,凤凰香港HD
 http://223.82.250.72/ysten-bussiness/live/fhhongkong/1.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 ,====== 影视频道 ======
-http://4/4.m3u8
 #EXTINF:-1 ,漫威影视
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,江苏影视
